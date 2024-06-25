@@ -10,8 +10,8 @@ main:
     url: /people/
     
 
-  - title: "Open-source Project"
-    url: /teaching/    
+  # - title: "Open-source Project"
+  #   url: /teaching/    
     
   - title: "Janus Quantum Cloud"
     url: http://janusq.zju.edu.cn

@@ -7,6 +7,9 @@ author_profile: true
 **Journal Publications**
 ## 2024
 **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang, Jianwei Yin: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 43(4): 1177-1190
+<!-- 点击链接下载 -->
+
+
 ## 2023
 [J8]	Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang: Automatic Generation of Spatial Accelerator for Tensor Algebra. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 42(6): 1898-1911
 
