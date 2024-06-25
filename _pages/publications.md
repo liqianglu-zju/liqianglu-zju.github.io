@@ -20,11 +20,11 @@ author_profile: true
 
 | **Liqiang Lu**, Yun Liang: Morphling: A Reconfigurable Architecture for Tensor Computation. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 41(11): 4733-4746 [Download](https://liqiangluzju.github.io/files/journal/2022/TCAD_2022_Morphling.pdf) |
 
-2021
+## 2021
 
 Yun Liang, **Liqiang Lu**, Jiaming Xie: OMNI: A Framework for Integrating Hardware and Software Optimizations for Sparse CNNs. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 40(8): 1648-1661 [Download](https://liqiangluzju.github.io/files/journal/2021/TCAD_2021_OMNI.pdf) 
 
-2020
+## 2020
 
 Liancheng Jia, **Liqiang Lu**, Xuechao Wei, Yun Liang: Generating Systolic Array Accelerators With Reusable Blocks. IEEE Micro 40(4): 85-92 [Download](https://liqiangluzju.github.io/files/journal/2020/Micro_2020_Generating_Systolic_Array_Accelerators_With_Reusable_Blocks.pdf)
 
