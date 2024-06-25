@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## 2023
-[J8]	Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang: Automatic Generation of Spatial Accelerator for Tensor Algebra. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 42(6): 1898-1911 [Download](https://liqiangluzju.github.io/files/journal/2023/TCAD_2023_Automatic_Generati.textClipping.pdf.pdf)
+[J8]	Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang: Automatic Generation of Spatial Accelerator for Tensor Algebra. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 42(6): 1898-1911 [Download](https://liqiangluzju.github.io/files/journal/2023/TCAD_2023_Automatic_Generati.textClipping.pdf)
 
 ## 2022
 
