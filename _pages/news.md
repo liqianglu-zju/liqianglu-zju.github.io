@@ -6,7 +6,6 @@ author_profile: true
 ---
 <!-- 字体加粗 -->
 
-**ALL News**
 
 **2024**
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
