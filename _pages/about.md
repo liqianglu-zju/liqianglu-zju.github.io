@@ -11,7 +11,7 @@ redirect_from:
 
 **ZJU100 Young Professor**
 
-*College of Computer Science And Technology*<br/>
+*College of Computer Science and Technology*<br/>
 *Zhejiang University*<br/>
 *East Building #5, Wensan Rd No.232, Hangzhou, 310012*<br/>
 
