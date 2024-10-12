@@ -9,7 +9,7 @@ author_profile: true
 (* denotes correspounding author.)
 ## 2024
 
-[C17] Hanyu Zhang,**Liqiang Lu***, Siwei Tan, Size Zheng, Jia Yu, Jianwei Yin*: SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation. DAC 2024. 
+[C17] Hanyu Zhang, **Liqiang Lu**\*, Siwei Tan, Size Zheng, Jia Yu, Jianwei Yin\*: SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation. DAC 2024. 
 
 [C16] Siwei Tan, Debin Xiang, **Liqiang Lu**, Junlin Lu, Qiuping Jiang, Mingshuai Chen, Jianwei Yin*: MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification. ASPLOS 2024: 671–688 [Download](https://liqiangluzju.github.io/files/conference/2024/ASPLOS_2024_MorphQPV.pdf)
 
