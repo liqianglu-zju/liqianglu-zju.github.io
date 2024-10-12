@@ -58,7 +58,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **Mar 2024:** One paper is accepted to **DAC’24**. Congratulations to Hanyu.
 - **Feb 2024:** MorphQPV is awarded the “**Artifacts Available**”, “**Artifacts Evaluated – Functional**” and “**Results Reproduced**”. Badges offered by the Artifact Evaluation Committee of ASPLOS 2024.
 - **Feb 2024:** Two papers are accepted to **ASPLOS’24**. Congratulations to Siwei and Debin.
-- - **Dec 2023:** We organize “Quantum Software and Applications Forum” in Hangzhou with around 200 attendees. Thanks to the speakers (Prof. Xiaoming Sun, Prof. Lvzhou Li, Prof. Dong Wu, Prof. Tongyang Li, Prof. Zhen Wang).
+- **Dec 2023:** We organize “Quantum Software and Applications Forum” in Hangzhou with around 200 attendees. Thanks to the speakers (Prof. Xiaoming Sun, Prof. Lvzhou Li, Prof. Dong Wu, Prof. Tongyang Li, Prof. Zhen Wang).
 - **Dec 2023:** Our tutorial “**Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit**” [(Link)](https://janusq.github.io/tutorials/home) is accepted to [ASPLOS’24](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials).Our tutoiral is scheduled on April 27th, welcome to attend!
 - **Sep 2023:** Tianyao’s project “Dynamic Scheduling for Quantum Communication Network with Online Request” is funded for undergraduate from National Natural Science Foundation of China (首届国自然基金委本科生项目). Congratulations to Tianyao.
 - **Aug 2023:** My PhD thesis is awarded the best thesis in CCF architecture subcommittee (2023 CCF体系结构优博).
@@ -67,9 +67,10 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **May 2023:** Invited to give a talk on “Hot topics and recent trend in AI chip architecture and infrastructure” for Huawei in Hangzhou.
 - **Mar 2023:** My paper is accepted to **FPL’23**. Thanks to Zizhang and the other coauthors.
 - **Feb 2023:** My paper is accepted to **DAC’23**. Thanks to Zizhang and the other coauthors.
-- - **Oct 2022:** One paper is accepted to **HPCA’23**. Congratulations to Siwei and Mingqian.
+- **Oct 2022:** One paper is accepted to **HPCA’23**. Congratulations to Siwei and Mingqian.
 - **Jul 2022:** We launched an event for releasing “Janus 1.0 Quantum Cloud Platform” at Hangzhou, which is equipped with “Tianmu” superconducting quantum chip developed by Zhejiang University. Our quantum cloud platform was widely reported by Zhejiang Satellite TV, BiliBili, Tencent News, etc.
 - **Jun 2022:** I successfully defend my PhD thesis “**Architecture Design and Dataflow Analysis for Tensor Applications**”, and start as a **ZJU100 Young Professor** at Zhejiang University. My thesis is awarded the excellent thesis of Peking University in 2022 (北京大学优博).
+  
 
 ## Teaching
 - Theoretical basis and programming of quantum computing (Turing Class in ZJU, Autumn'23, '24)
