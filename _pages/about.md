@@ -18,6 +18,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 <font color=red>I am looking for highly self-motivated PhD students as well as undergraduate interns interested in computer architecture and quantum computing. Students with strong hands-on system building skills, algorithm background and physics background are especially welcomed.</font>
 
+
 ## Research
 **System, Hardware, Software Optimization for Quantum Computing**
 - **Optimization techniques for the compilation of quantum circuits**
@@ -46,6 +47,9 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
   - Sparse Winograd-based accelerator (DAC 2018)
   - Sparse CNN accelerator (FCCM 2019)
   - Hardware-friendly CNN compression (TCAD 2021, TCAD 2021)
+ 
 
-
-
+## Teaching
+- Theoretical basis and programming of quantum computing (Turing Class in ZJU, Autumn'23, '24)
+- Introduction to the software of quantum computing (Autumn'23, '24)
+- AI Chip design (Winter'22, '23, '24)
