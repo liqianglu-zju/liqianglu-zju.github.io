@@ -13,7 +13,7 @@ author_profile: true
 
 [C16] Siwei Tan, Debin Xiang, **Liqiang Lu**, Junlin Lu, Qiuping Jiang, Mingshuai Chen, Jianwei Yin*: MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification. ASPLOS 2024: 671–688 [Download](https://liqiangluzju.github.io/files/conference/2024/ASPLOS_2024_MorphQPV.pdf)
 
-[C15] Siwei Tan, **Liqiang Lu***, Hanyu Zhang, Jia Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao, Mingshuai Chen, Yun Liang, and Jianwei Yin*: QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method. ASPLOS 2024: 948–963 [Download](https://liqiangluzju.github.io/files/conference/2024/ASPLOS_2024_QuFEM.pdf)
+[C15] Siwei Tan, **Liqiang Lu**\*, Hanyu Zhang, Jia Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao, Mingshuai Chen, Yun Liang, and Jianwei Yin\*: QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method. ASPLOS 2024: 948–963 [Download](https://liqiangluzju.github.io/files/conference/2024/ASPLOS_2024_QuFEM.pdf)
 
 
 ## 2023
@@ -22,9 +22,9 @@ author_profile: true
 
 [C13] Zizhang Luo, **Liqiang Lu**, Yicheng Jin, Liancheng Jia, Yun Liang*: Calabash: Accelerating Attention Using a Systolic Array Chain on FPGAs. FPL 2023: 242-247 [Download](https://liqiangluzju.github.io/files/conference/2023/FPL_2023_Calabash.pdf)
 
-[C12] Siwei Tan, Mingqian Yu, Andre Python, Yongheng Shang, Tingting Li, **Liqiang Lu***, Jianwei Yin*: HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL. HPCA 2023: 731-744 [Download](https://liqiangluzju.github.io/files/conference/2023/HPCA_2023_HyQSAT.pdf)
+[C12] Siwei Tan, Mingqian Yu, Andre Python, Yongheng Shang, Tingting Li, **Liqiang Lu**\*, Jianwei Yin\*: HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL. HPCA 2023: 731-744 [Download](https://liqiangluzju.github.io/files/conference/2023/HPCA_2023_HyQSAT.pdf)
 
-[C11] Siwei Tan, Congliang Lang, Liang Xiang, Shudi Wang, Xinghui Jia, Ziqi Tan, Tingting Li, Jieming Yin, Yongheng Shang, Andre Python, **Liqiang Lu***, Jianwei Yin*: QuCT: A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features. MICRO 2023: 494-508 [Download](https://liqiangluzju.github.io/files/conference/2023/MICRO_2023_QuCT.pdf)
+[C11] Siwei Tan, Congliang Lang, Liang Xiang, Shudi Wang, Xinghui Jia, Ziqi Tan, Tingting Li, Jieming Yin, Yongheng Shang, Andre Python, **Liqiang Lu**\*, Jianwei Yin\*: QuCT: A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features. MICRO 2023: 494-508 [Download](https://liqiangluzju.github.io/files/conference/2023/MICRO_2023_QuCT.pdf)
 
 
 ## 2022
@@ -41,6 +41,7 @@ author_profile: true
 [C07] Liancheng Jia, Zizhang Luo, **Liqiang Lu**, Yun Liang*: Analyzing the Design Space of Spatial Tensor Accelerators on FPGAs. ISVLSI 2021: 230-235 [Download](https://liqiangluzju.github.io/files/conference/2021/ISVLSI_2021_Analyzing_the_Design_Space_of_Spatial_Tensor_Accelerators_on_FPGAs.pdf)
 
 [C06] **Liqiang Lu**, Yicheng Jin, Hangrui Bi, Zizhang Luo, Peng Li, Tao Wang, Yun Liang*: Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture. MICRO 2021: 977-991 [Download](https://liqiangluzju.github.io/files/conference/2021/MICRO_2021_Sanger.pdf)
+
 
 ## 2020
 
@@ -63,9 +64,7 @@ author_profile: true
 
 [C01] **Liqiang Lu**, Yun Liang*, Qingcheng Xiao, Shengen Yan: Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs. FCCM 2017: 101-108 [Download](https://liqiangluzju.github.io/files/conference/2017/FCCM_2017_Evaluating_Fast_Algorithms_for_Convolutional_Neural_Networks_on_FPGAs.pdf)
 
-
-
-
+<br/>
 
 ## Journal Publications
 (* denotes correspounding author.)
