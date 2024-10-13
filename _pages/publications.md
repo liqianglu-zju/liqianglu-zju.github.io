@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference papers
+## Conference Papers
 (* denotes correspounding author.)
 
 **2024**
