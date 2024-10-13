@@ -22,7 +22,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 ## Research
 **System, Hardware, Software Optimization for Quantum Computing**
 - **Optimization techniques for the compilation of quantum circuits**
-  - Quantum circuit analysis framework by vectorization (MICRO 2023)
+  - Quantum circuit analysis framework by vectorization <font color=royalblue>(MICRO 2023)</font>
   - Dynamic pulse library for IO optimization (ICCAD 2023)
   - Quantum Program Verification (ASPLOS 2024)
 - **Hardware-level optimization for high-fidelity quantum circuit**
