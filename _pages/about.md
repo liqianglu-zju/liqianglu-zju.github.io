@@ -73,6 +73,6 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
   
 
 ## Teaching
-- Theoretical basis and programming of quantum computing (Turing Class in ZJU, Autumn'23, '24)
-- Introduction to the software of quantum computing (Autumn'23, '24)
-- AI Chip design (Winter'22, '23, '24)
+- Theoretical basis and programming of quantum computing (Turing Class in ZJU, Autumn’23, ’24)
+- Introduction to the software of quantum computing (Autumn’23, ’24)
+- AI Chip design (Winter’22, ’23, ’24)
