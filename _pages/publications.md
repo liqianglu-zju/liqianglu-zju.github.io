@@ -56,7 +56,7 @@ author_profile: true
 
 **2019**
 
-[C04] **Liqiang Lu**, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin, Yun Liang*: An Efficient Hardware Accelerator for Sparse Convolutional Neural Networks on FPGAs. **FCCM** 2019.[Download](https://liqiangluzju.github.io/files/conference/2019/FCCM_2019_An_Efficient_Hardware_Accelerator_for_Spare_Convolutional_Neural_Networks_on_FPGAs.pdf)
+[C04] **Liqiang Lu**, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin, Yun Liang*: An Efficient Hardware Accelerator for Sparse Convolutional Neural Networks on FPGAs. **FCCM** 2019. [Download](https://liqiangluzju.github.io/files/conference/2019/FCCM_2019_An_Efficient_Hardware_Accelerator_for_Spare_Convolutional_Neural_Networks_on_FPGAs.pdf)
 
 
 
