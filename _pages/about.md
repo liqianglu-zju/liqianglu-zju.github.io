@@ -23,30 +23,30 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 **System, Hardware, Software Optimization for Quantum Computing**
 - **Optimization techniques for the compilation of quantum circuits**
   - Quantum circuit analysis framework by vectorization <font color=royalblue>(MICRO 2023)</font>
-  - Dynamic pulse library for IO optimization (ICCAD 2023)
-  - Quantum Program Verification (ASPLOS 2024)
+  - Dynamic pulse library for IO optimization <font color=royalblue>(ICCAD 2023)</font>
+  - Quantum Program Verification <font color=royalblue>(ASPLOS 2024)</font>
 - **Hardware-level optimization for high-fidelity quantum circuit**
-  - FEM-based Quantum Readout Calibration (ASPLOS 2024)
-  - Sparse accelerator for quantum readout error mitigation (DAC 2024)
+  - FEM-based Quantum Readout Calibration <font color=royalblue>(ASPLOS 2024)</font>
+  - Sparse accelerator for quantum readout error mitigation <font color=royalblue>(DAC 2024)</font>
 - **Software-hardware codesign for quantum applications**
-  - End-to-end acceleration for solving 3-SAT problems (HPCA 2023)
-  - Noise optimization for quantum neural networks (TCAD 2024)
+  - End-to-end acceleration for solving 3-SAT problems <font color=royalblue>(HPCA 2023)</font>
+  - Noise optimization for quantum neural networks <font color=royalblue>(TCAD 2024)</font>
 
 **Architecture Design and Dataflow Analysis for AI Applications**
 - **Tensor dataflow analysis and optimization theory**
-  - Relation-centric notation for tensor computing (ISCA 2021)
-  - Dataflow decomposition for DSE (DAC 2023, TCAD 2024)
-  - Automatic mapping on spatial architecture (ISCA 2022)
+  - Relation-centric notation for tensor computing <font color=royalblue>(ISCA 2021)</font>
+  - Dataflow decomposition for DSE <font color=royalblue>(DAC 2023, TCAD 2024)</font>
+  - Automatic mapping on spatial architecture <font color=royalblue>(ISCA 2022)</font>
 - **AI accelerator and sparse accelerator design**
-  - Transformer accelerator (MICRO 2021, FPL 2023)
-  - Winograd- and FFT-based fast algorithm for CNN (FCCM 2017, TCAD 2018)
+  - Transformer accelerator <font color=royalblue>(MICRO 2021, FPL 2023)</font>
+  - Winograd- and FFT-based fast algorithm for CNN <font color=royalblue>(FCCM 2017, TCAD 2018)</font>
 - **Reconfigurable architecture and agile chip design**
-  - Reconfigurable systolic array (MICRO 2021)
-  - Agile spatial accelerator for tensor algebra (DAC 2021, TCAD 2023)
+  - Reconfigurable systolic array <font color=royalblue>(MICRO 2021)</font>
+  - Agile spatial accelerator for tensor algebra <font color=royalblue>(DAC 2021, TCAD 2023)</font>
 - **Hardware-software codesign for Sparsity**
-  - Sparse Winograd-based accelerator (DAC 2018)
-  - Sparse CNN accelerator (FCCM 2019)
-  - Hardware-friendly CNN compression (TCAD 2021, TCAD 2021)
+  - Sparse Winograd-based accelerator <font color=royalblue>(DAC 2018)</font>
+  - Sparse CNN accelerator <font color=royalblue>(FCCM 2019)</font>
+  - Hardware-friendly CNN compression <font color=royalblue>(TCAD 2021, TCAD 2021)</font>
 
 
 ## Selected News
