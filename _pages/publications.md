@@ -79,7 +79,7 @@ author_profile: true
 
 **2024**
 
-[J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang*, Jianwei Yin*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2024, 43(4): 1177-1190 [Download](https://liqiangluzju.github.io/files/journal/2024/TCAD2024Rubick.pdf)
+[J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2024, 43(4): 1177-1190 [Download](https://liqiangluzju.github.io/files/journal/2024/TCAD2024Rubick.pdf)
 
 
 
