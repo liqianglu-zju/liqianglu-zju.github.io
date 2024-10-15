@@ -79,6 +79,8 @@ author_profile: true
 
 **2024**
 
+[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin*. QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. TCAD, 2024. (Top journal in computer-aided design, CCF-A)
+
 [J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2024, 43(4): 1177-1190 [Download](https://liqiangluzju.github.io/files/journal/2024/TCAD2024Rubick.pdf)
 
 
