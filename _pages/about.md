@@ -13,6 +13,7 @@ redirect_from:
 
 **Assistant Professor of College of Computer Science and Technology**
 
+
 ## Biography
 I am an assistant professor (ZJU100 Young Professor) in the College of Computer Science at Zhejiang University (ZJU). I received my Ph.D. degree from Peking University in 2022 (advised by Prof. Yun Liang), and Bachelor degree from Peking University in 2017. My research interest is at computer architecture, quantum computing, electronic design automation (EDA), hardware and software co-design. Recently, I mainly focus on the dataflow modeling of tensor computing, software optimization of quantum computing, hybrid algorithm design by mixing classical computing and quantum computing. I have authored over 30 scientific publications in top-tier conferences and journals including ISCA, ASPLOS, HPCA, MICRO, DAC, ICCAD, FCCM, TCAD, IEEE Micro. I also serve in the program committees in the premier conferences including DAC, ICCAD, DATE, FPT, HPCC, and serve as reviewers in several top journals including TPDS, TC, TCAD, TECS, TVLSI. 
 
@@ -58,6 +59,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 ## Selected News
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
 - **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
+- **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor – Congratulations!
 - **Sep 2024:** Hengrui’s project “Studying the EQC for quantum neural networks” is funded for undergraduate from National Natural Science Foundation of China (第二届国自然基金委本科生项目). Congratulations to Hengrui.
 - **Sep 2024:** One paper is accepted to **TCAD’24**. Congratulations to Tingting.
 - **May 2024:** We organize the first “Quantum Circuit Design Automation Conference” (QCDAC) in Nanjing. Thanks to the co-organizers. I’m invited to give a talk of my DAC 2024 paper.

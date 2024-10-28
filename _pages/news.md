@@ -10,6 +10,7 @@ author_profile: true
 ## 2024
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
 - **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
+- **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor – Congratulations!
 - **Sep 2024:** Hengrui’s project “Studying the EQC for quantum neural networks” is funded for undergraduate from National Natural Science Foundation of China (第二届国自然基金委本科生项目). Congratulations to Hengrui.
 - **Sep 2024:** One paper is accepted to **TCAD’24**. Congratulations to Tingting.
 - **Aug 2024:** Invited to give a talk of “Full-stack quantum computer architecture: JanusQ 1.0” at CCF Quantum Computing Conference (CQCC).
@@ -39,13 +40,4 @@ author_profile: true
 - **Oct 2022:** One paper is accepted to **HPCA’23**. Congratulations to Siwei and Mingqian.
 - **Jul 2022:** We launched an event for releasing “Janus 1.0 Quantum Cloud Platform” at Hangzhou, which is equipped with “Tianmu” superconducting quantum chip developed by Zhejiang University. Our quantum cloud platform was widely reported by Zhejiang Satellite TV, BiliBili, Tencent News, etc.
 - **Jun 2022:** I successfully defend my PhD thesis “**Architecture Design and Dataflow Analysis for Tensor Applications**”, and start as a **ZJU100 Young Professor** at Zhejiang University. My thesis is awarded the excellent thesis of Peking University in 2022 (北京大学优博).
-
-
-
-
-
-
-
-
-
 
