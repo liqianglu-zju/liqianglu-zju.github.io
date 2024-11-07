@@ -57,6 +57,8 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Nov 2024:** One paper is accepted to TCAD’24. Congratulations to Wuwei.
+- **Nov 2024:** One paper is accepted to HPCA’25. Congratulations to Debin and Qifan.
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
 - **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
 - **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor – Congratulations!
