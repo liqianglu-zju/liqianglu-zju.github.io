@@ -10,6 +10,8 @@ author_profile: true
 
 **2024**
 
+[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin*. Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. HPCA 2025. 
+
 [C17] Hanyu Zhang, **Liqiang Lu**\*, Siwei Tan, Size Zheng, Jia Yu, Jianwei Yin\*: SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation. **DAC** 2024. [Download](https://liqianglu-zju.github.io/files/conference/2024/DAC_2024_SpREM.pdf)
 
 [C16] Siwei Tan#, Debin Xiang#, **Liqiang Lu**\*, Junlin Lu, Qiuping Jiang, Mingshuai Chen, Jianwei Yin\*: MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification. **ASPLOS** 2024. (#These authors contributed equally.) [Download](https://liqianglu-zju.github.io/files/conference/2024/ASPLOS_2024_MorphQPV.pdf)
@@ -78,6 +80,8 @@ author_profile: true
 (* denotes correspounding author.)
 
 **2024**
+
+[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan*, Zixuan Song, Jianwei Yin*. SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024.
 
 [J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin*. QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024.
 
