@@ -8,9 +8,11 @@ author_profile: true
 ## Conference Papers
 (* denotes correspounding author.)
 
-**2024**
+**2025**
 
-[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin*. Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. HPCA 2025. 
+[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin*. Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. HPCA 2025. (#These authors contributed equally.)
+
+**2024**
 
 [C17] Hanyu Zhang, **Liqiang Lu**\*, Siwei Tan, Size Zheng, Jia Yu, Jianwei Yin\*: SpREM: Exploiting Hamming Sparsity for Fast Quantum Readout Error Mitigation. **DAC** 2024. [Download](https://liqianglu-zju.github.io/files/conference/2024/DAC_2024_SpREM.pdf)
 
