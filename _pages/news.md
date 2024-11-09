@@ -8,8 +8,8 @@ author_profile: true
 
 
 ## 2024
-- **Nov 2024:** One paper is accepted to TCAD’24. Congratulations to Wuwei.
-- **Nov 2024:** One paper is accepted to HPCA’25. Congratulations to Debin and Qifan.
+- **Nov 2024:** One paper is accepted to **TCAD’24**. Congratulations to Wuwei.
+- **Nov 2024:** One paper is accepted to **HPCA’25**. Congratulations to Debin and Qifan.
 - **Nov 2024:** Invited to give a talk of “Full-stack quantum computer architecture: Recent Progress of JanusQ” at Young Scientists Academic Annual Conference of Jiangsu Province (江苏省青年科学家学术年会).
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
 - **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
