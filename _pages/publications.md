@@ -83,7 +83,7 @@ author_profile: true
 
 **2024**
 
-[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024.
+[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024.
 
 [J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024.
 
