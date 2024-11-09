@@ -10,7 +10,7 @@ author_profile: true
 
 **2025**
 
-[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. HPCA 2025. (#These authors contributed equally.)
+[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. **HPCA** 2025. (#These authors contributed equally.)
 
 **2024**
 
