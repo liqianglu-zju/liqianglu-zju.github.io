@@ -8,6 +8,9 @@ author_profile: true
 
 
 ## 2024
+- **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
+- **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
+- **Nov 2024:** One paper is accepted to **DATE’25**. Congratulations to Tingting.
 - **Nov 2024:** One paper is accepted to **TCAD’24**. Congratulations to Wuwei.
 - **Nov 2024:** One paper is accepted to **HPCA’25**. Congratulations to Debin and Qifan.
 - **Nov 2024:** Invited to give a talk of “Full-stack quantum computer architecture: Recent Progress of JanusQ” at Young Scientists Academic Annual Conference of Jiangsu Province (江苏省青年科学家学术年会).
