@@ -57,6 +57,9 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
+- **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
+- **Nov 2024:** One paper is accepted to **DATE’25**. Congratulations to Tingting.
 - **Nov 2024:** One paper is accepted to **TCAD’24**. Congratulations to Wuwei.
 - **Nov 2024:** One paper is accepted to **HPCA’25**. Congratulations to Debin and Qifan.
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
