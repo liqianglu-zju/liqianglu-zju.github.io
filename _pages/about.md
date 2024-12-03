@@ -25,13 +25,16 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **Optimization techniques for the compilation of quantum circuits**
   - Quantum circuit analysis framework by vectorization <font color=royalblue>(MICRO 2023)</font>
   - Dynamic pulse library for IO optimization <font color=royalblue>(ICCAD 2023)</font>
-  - Quantum Program Verification <font color=royalblue>(ASPLOS 2024)</font>
+  - Quantum program verification <font color=royalblue>(ASPLOS 2024)</font>
 - **Hardware-level optimization for high-fidelity quantum circuit**
-  - FEM-based Quantum Readout Calibration <font color=royalblue>(ASPLOS 2024)</font>
+  - FEM-based quantum readout calibration <font color=royalblue>(ASPLOS 2024)</font>
   - Sparse accelerator for quantum readout error mitigation <font color=royalblue>(DAC 2024)</font>
+  - MoE-based automatic quantum calibration <font color=royalblue>(DATE 2025)</font>
+  - Near-quantum dynamic cache design for fast pulse generation <font color=royalblue>(TCAD 2025)</font>
 - **Software-hardware codesign for quantum applications**
   - End-to-end acceleration for solving 3-SAT problems <font color=royalblue>(HPCA 2023)</font>
   - Noise optimization for quantum neural networks <font color=royalblue>(TCAD 2024)</font>
+  - Commute Hamiltonian-based QAOA for constrained binary optimization <font color=royalblue>(HPCA 2025)</font>
 
 **Architecture Design and Dataflow Analysis for AI Applications**
 - **Tensor dataflow analysis and optimization theory**
