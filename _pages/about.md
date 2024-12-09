@@ -54,7 +54,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Tutorials
-- **HPCA 2025** Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit (Link)
+- [**HPCA 2025**](https://hpca-conf.org/2025/category/programs/) Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit [(Link)](https://janusq.github.io/HPCA_2025_Tutorial/home)
 - [**ASPLOS 2024**](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials/) Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit [(Link)](https://janusq.github.io/tutorials/home)
 - [**MICRO 2021**](https://microarch.org/micro54/program/workshops.php) AHS: An Agile Framework for Hardware Specialization and Software Mapping [(Link)](https://pku-ahs.github.io/tutorial/en/master/)
 
