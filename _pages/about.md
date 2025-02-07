@@ -25,7 +25,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **Optimization techniques for the compilation of quantum circuits**
   - Quantum circuit analysis framework by vectorization <font color=royalblue>(MICRO 2023)</font>
   - Dynamic pulse library for IO optimization <font color=royalblue>(ICCAD 2023)</font>
-  - Quantum program verification <font color=royalblue>(ASPLOS 2024)</font>
+  - Quantum program verification and repair <font color=royalblue>(ASPLOS 2024, FSE 2025)</font>
 - **Hardware-level optimization for high-fidelity quantum circuit**
   - FEM-based quantum readout calibration <font color=royalblue>(ASPLOS 2024)</font>
   - Sparse accelerator for quantum readout error mitigation <font color=royalblue>(DAC 2024)</font>
@@ -60,6 +60,8 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
+- **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
 - **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
 - **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
 - **Nov 2024:** One paper is accepted to **DATE’25**. Congratulations to Tingting.
