@@ -54,7 +54,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Tutorials
-- [**HPCA 2025**](https://hpca-conf.org/2025/workshop-tutorial/) Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit [(Link)](https://janusq.github.io/HPCA_2025_Tutorial/home)
+- [**HPCA 2025**](https://hpca-conf.org/2025/workshop-tutorial/) Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit [(Link)](https://janusq.github.io/HPCA_2025_Tutorial/home)
 - [**ASPLOS 2024**](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials/) Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit [(Link)](https://janusq.github.io/tutorials/home)
 - [**MICRO 2021**](https://microarch.org/micro54/program/workshops.php) AHS: An Agile Framework for Hardware Specialization and Software Mapping [(Link)](https://pku-ahs.github.io/tutorial/en/master/)
 
@@ -68,7 +68,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **Nov 2024:** One paper is accepted to **TCAD’24**. Congratulations to Wuwei.
 - **Nov 2024:** One paper is accepted to **HPCA’25**. Congratulations to Debin and Qifan.
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
-- **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Calibrating Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
+- **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
 - **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor – Congratulations!
 - **Sep 2024:** Hengrui’s project “Studying the EQC for quantum neural networks” is funded for undergraduate from National Natural Science Foundation of China (第二届国自然基金委本科生项目). Congratulations to Hengrui.
 - **Sep 2024:** One paper is accepted to **TCAD’24**. Congratulations to Tingting.
