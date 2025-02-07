@@ -7,6 +7,10 @@ author_profile: true
 <!-- 字体加粗 -->
 
 
+## 2025
+- **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
+- **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
+
 ## 2024
 - **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
 - **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
