@@ -10,6 +10,12 @@ author_profile: true
 
 **2025**
 
+[C23] Kaiwen Zhou, **Liqiang Lu**\*, Hanyu Zhang, Debin Xiang, Chenning Tao, Xinkui Zhao, Size Zheng, Jianwei Yin\*: DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator. **DAC** 2025.
+
+[C22] Tianze Zhu, **Liqiang Lu**\*, Jiajun Chen, Yuhang Chen, Hengrui Chen, Meng Xi, Jinshan Zhang, Xiaoming Sun, Jianwei Yin\*: SAPO: Improving the Scalability and Accuracy of Quantum Linear Solver for Portfolio Optimization. **DAC** 2025.
+
+[C21] Tianyao Chu#, Siwei Tan#, **Liqiang Lu**\*, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: ArbiterQ: Improving QNN Convergency and Accuracy by Applying Personalized Model on Heterogeneous Quantum Devices. **DAC** 2025. (#These authors contributed equally.)
+
 [C20] Siwei Tan, **Liqiang Lu**\*, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, Xing Hu, Jianwei Yin\*: HornBro: Homotopy-like Method for Automated Quantum Program Repair. **FSE** 2025.
 
 [C19] Tingting Li, Ziming Zhao, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Empowering Quantum Error Traceability with MoE for Automatic Calibration. **DATE** 2025.

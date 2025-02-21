@@ -8,6 +8,7 @@ author_profile: true
 
 
 ## 2025
+- **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
 - **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
 - **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
 
