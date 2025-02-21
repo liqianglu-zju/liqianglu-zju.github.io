@@ -60,6 +60,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
 - **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
 - **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
 - **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
