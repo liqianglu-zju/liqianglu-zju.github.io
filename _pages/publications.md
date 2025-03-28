@@ -10,6 +10,10 @@ author_profile: true
 
 **2025**
 
+[C25] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin\*: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025.
+
+[C24] Chenning Tao, **Liqiang Lu**\*, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, Kaiwen Zhou, Jianwei Yin\*: Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing. **ISCA** 2025.
+
 [C23] Kaiwen Zhou, **Liqiang Lu**\*, Hanyu Zhang, Debin Xiang, Chenning Tao, Xinkui Zhao, Size Zheng, Jianwei Yin\*: DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator. **DAC** 2025.
 
 [C22] Tianze Zhu, **Liqiang Lu**\*, Jiajun Chen, Yuhang Chen, Hengrui Chen, Meng Xi, Jinshan Zhang, Xiaoming Sun, Jianwei Yin\*: SAPO: Improving the Scalability and Accuracy of Quantum Linear Solver for Portfolio Optimization. **DAC** 2025.
@@ -30,7 +34,7 @@ author_profile: true
 
 [C16] Siwei Tan#, Debin Xiang#, **Liqiang Lu**\*, Junlin Lu, Qiuping Jiang, Mingshuai Chen, Jianwei Yin\*: MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification. **ASPLOS** 2024. (#These authors contributed equally.) [Download](https://liqianglu-zju.github.io/files/conference/2024/ASPLOS_2024_MorphQPV.pdf)
 
-[C15] Siwei Tan, **Liqiang Lu**\*, Hanyu Zhang, Jia Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao, Mingshuai Chen, Yun Liang, and Jianwei Yin\*: QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method. **ASPLOS** 2024. [Download](https://liqianglu-zju.github.io/files/conference/2024/ASPLOS_2024_QuFEM.pdf)
+[C15] Siwei Tan, **Liqiang Lu**\*, Hanyu Zhang, Jia Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao, Mingshuai Chen, Yun Liang, Jianwei Yin\*: QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method. **ASPLOS** 2024. [Download](https://liqianglu-zju.github.io/files/conference/2024/ASPLOS_2024_QuFEM.pdf)
 
 
 
