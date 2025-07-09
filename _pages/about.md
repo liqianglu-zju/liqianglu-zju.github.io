@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 字体加粗 -->
 
 **ZJU100 Young Professor**
 
@@ -22,48 +21,51 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 ## Research
 **System, Hardware, Software Optimization for Quantum Computing**
-- **Optimization techniques for the compilation of quantum circuits**
-  - Quantum circuit analysis framework by vectorization <font color=royalblue>(MICRO 2023)</font>
-  - Dynamic pulse library for IO optimization <font color=royalblue>(ICCAD 2023)</font>
-  - Quantum program verification and repair <font color=royalblue>(ASPLOS 2024, FSE 2025)</font>
-- **Hardware-level optimization for high-fidelity quantum circuit**
-  - FEM-based quantum readout calibration <font color=royalblue>(ASPLOS 2024)</font>
-  - Sparse accelerator for quantum readout error mitigation <font color=royalblue>(DAC 2024)</font>
-  - MoE-based automatic quantum calibration <font color=royalblue>(DATE 2025)</font>
-  - Near-quantum dynamic cache design for fast pulse generation <font color=royalblue>(TCAD 2025)</font>
+- **Software optimization for quantum circuit compilation**
+  - Quantum circuit analysis framework by vectorization ([QuCT@MICRO’23](https://doi.org/10.1145/3613424.3614274))
+  - Quantum program verification and repair ([MorphQPV@ASPLOS’24](https://doi.org/10.1145/3620666.3651360), [HornBro@FSE’25](https://doi.org/10.1145/3715751))
+  - Circuit performance modeling for distributed quantum computing (AdaptDQC@TC’25)
+  - MoE-based method for automatic quantum calibration (DATE’25)
+- **Architectural optimization for high-fidelity quantum circuit**
+  - Sparse accelerator for readout error mitigation ([QuFEM@ASPLOS’24](https://doi.org/10.1145/3620665.3640380), [SpREM@DAC’24](https://doi.org/10.1145/3649329.3655675), DyREM@DAC’25)
+  - Dynamic pulse cache for IO optimization ([QPulselib@ICCAD’23](https://doi.org/10.1109/ICCAD57390.2023.10323711), [SmartQCache@TCAD’24](https://doi.org/10.1109/TCAD.2024.3497839))
+  - FPGA-based branch prediction for quantum feedback ([ARTERY@ISCA’25](https://doi.org/10.1145/3695053.3731086))
+  - RISC-V design for Hybrid Quantum-Classical Computing ([Qtenon@ISCA’25](https://doi.org/10.1145/3695053.3731087))
 - **Software-hardware codesign for quantum applications**
-  - End-to-end acceleration for solving 3-SAT problems <font color=royalblue>(HPCA 2023)</font>
-  - Noise optimization for quantum neural networks <font color=royalblue>(TCAD 2024)</font>
-  - Commute Hamiltonian-based QAOA for constrained binary optimization <font color=royalblue>(HPCA 2025)</font>
+  - End-to-end acceleration for solving 3-SAT problems ([HyQSAT@HPCA’23](https://doi.org/10.1109/HPCA56546.2023.10071022))
+  - Optimization for quantum neural networks ([QuST@TCAD’24](https://doi.org/10.1109/TCAD.2024.3471949), ArbiterQ@DAC’25)
+  - Commute Hamiltonian-based QAOA for constrained binary optimization([Choco-Q@HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00031))
+  - Quantum finance algorithm optimization for Portfolio optimization (SAPO@DAC’25)
 
 **Architecture Design and Dataflow Analysis for AI Applications**
 - **Tensor dataflow analysis and optimization theory**
-  - Relation-centric notation for tensor computing <font color=royalblue>(ISCA 2021)</font>
-  - Dataflow decomposition for DSE <font color=royalblue>(DAC 2023, TCAD 2024)</font>
-  - Automatic mapping on spatial architecture <font color=royalblue>(ISCA 2022)</font>
+  - Relation-centric notation for tensor computing ([TENET@ISCA’21](https://doi.org/10.1109/ISCA52012.2021.00062))
+  - Dataflow decomposition for DSE ([Rubick@DAC’23](https://doi.org/10.1109/DAC56929.2023.10247743), [Rubick@TCAD’24](https://doi.org/10.1109/TCAD.2023.3337208))
+  - Automatic mapping on spatial architecture ([AMOS@ISCA’22](https://doi.org/10.1145/3470496.3527440))
 - **AI accelerator and sparse accelerator design**
-  - Transformer accelerator <font color=royalblue>(MICRO 2021, FPL 2023)</font>
-  - Winograd- and FFT-based fast algorithm for CNN <font color=royalblue>(FCCM 2017, TCAD 2018)</font>
+  - Transformer accelerator (MICRO’21, [Calabash@FPL’23](https://doi.org/10.1109/FPL60245.2023.00041))
+  - Winograd- and FFT-based fast algorithm for CNN ([FCCM’17](https://doi.org/10.1109/FCCM.2017.64), TCAD’18)
 - **Reconfigurable architecture and agile chip design**
-  - Reconfigurable systolic array <font color=royalblue>(MICRO 2021)</font>
-  - Agile spatial accelerator for tensor algebra <font color=royalblue>(DAC 2021, TCAD 2023)</font>
+  - Reconfigurable systolic array ([Sanger@MICRO’21](https://doi.org/10.1145/3466752.3480125))
+  - Agile spatial accelerator for tensor algebra ([TensorLib@DAC’21](https://doi.org/10.1109/DAC18074.2021.9586329), [TCAD’23](https://doi.org/10.1109/TCAD.2022.3209949))
 - **Hardware-software codesign for Sparsity**
-  - Sparse Winograd-based accelerator <font color=royalblue>(DAC 2018)</font>
-  - Sparse CNN accelerator <font color=royalblue>(FCCM 2019)</font>
-  - Hardware-friendly CNN compression <font color=royalblue>(TCAD 2021, TCAD 2021)</font>
+  - Sparse Winograd-based accelerator ([SpWA@DAC’18](https://doi.org/10.1145/3195970.3196120))
+  - Sparse CNN accelerator ([FCCM’19](https://doi.org/10.1109/FCCM.2019.00013))
+  - Hardware-friendly CNN compression ([OMNI@TCAD’21](https://doi.org/10.1109/TCAD.2020.3023903), [TCAD’21](https://doi.org/10.1109/TCAD.2021.3066563))
 
 
 ## Tutorials
-- [**HPCA 2025**](https://hpca-conf.org/2025/workshop-tutorial/) Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit [(Link)](https://janusq.github.io/HPCA_2025_Tutorial/home)
-- [**ASPLOS 2024**](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials/) Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit [(Link)](https://janusq.github.io/tutorials/home)
-- [**MICRO 2021**](https://microarch.org/micro54/program/workshops.php) AHS: An Agile Framework for Hardware Specialization and Software Mapping [(Link)](https://pku-ahs.github.io/tutorial/en/master/)
+- [**HPCA 2025**](https://hpca-conf.org/2025/workshop-tutorial/) Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit ([Link](https://janusq.github.io/HPCA_2025_Tutorial/home))
+- [**ASPLOS 2024**](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials/) Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit ([Link](https://janusq.github.io/tutorials/home))
+- [**MICRO 2021**](https://microarch.org/micro54/program/workshops.php) AHS: An Agile Framework for Hardware Specialization and Software Mapping ([Link](https://pku-ahs.github.io/tutorial/en/master/))
 
 
 ## Selected News
-- **March 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
+- **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
+- **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
 - **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
 - **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
-- **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
+- **Jan 2025:** Our HPCA 2025 tutorial “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**” is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
 - **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
 - **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
 - **Nov 2024:** One paper is accepted to **DATE’25**. Congratulations to Tingting.
@@ -79,7 +81,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 - **Feb 2024:** MorphQPV is awarded the “**Artifacts Available**”, “**Artifacts Evaluated – Functional**” and “**Results Reproduced**”. Badges offered by the Artifact Evaluation Committee of ASPLOS 2024.
 - **Feb 2024:** Two papers are accepted to **ASPLOS’24**. Congratulations to Siwei and Debin.
 - **Dec 2023:** We organize “Quantum Software and Applications Forum” in Hangzhou with around 200 attendees. Thanks to the speakers (Prof. Xiaoming Sun, Prof. Lvzhou Li, Prof. Dong Wu, Prof. Tongyang Li, Prof. Zhen Wang).
-- **Dec 2023:** Our tutorial “**Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit**” [(Link)](https://janusq.github.io/tutorials/home) is accepted to [ASPLOS’24](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials).Our tutoiral is scheduled on April 27th, welcome to attend!
+- **Dec 2023:** Our tutorial “**Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit**” ([Link](https://janusq.github.io/tutorials/home)) is accepted to [ASPLOS’24](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials). Our tutorial is scheduled on April 27th, welcome to attend!
 - **Sep 2023:** Tianyao’s project “Dynamic Scheduling for Quantum Communication Network with Online Request” is funded for undergraduate from National Natural Science Foundation of China (首届国自然基金委本科生项目). Congratulations to Tianyao.
 - **Aug 2023:** My PhD thesis is awarded the best thesis in CCF architecture subcommittee (2023 CCF体系结构优博).
 - **Jul 2023:** One paper is accepted to **MICRO’23**. Congratulations to Siwei.

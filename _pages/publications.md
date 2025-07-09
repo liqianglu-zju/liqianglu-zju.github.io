@@ -10,9 +10,9 @@ author_profile: true
 
 **2025**
 
-[C25] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin\*: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025.
+[C25] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin\*: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_ARTERY.pdf)
 
-[C24] Chenning Tao, **Liqiang Lu**\*, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, Kaiwen Zhou, Jianwei Yin\*: Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing. **ISCA** 2025.
+[C24] Chenning Tao, **Liqiang Lu**\*, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, Kaiwen Zhou, Jianwei Yin\*: Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_Qtenon.pdf)
 
 [C23] Kaiwen Zhou, **Liqiang Lu**\*, Hanyu Zhang, Debin Xiang, Chenning Tao, Xinkui Zhao, Size Zheng, Jianwei Yin\*: DyREM: Dynamically Mitigating Quantum Readout Error with Embedded Accelerator. **DAC** 2025.
 
@@ -20,11 +20,11 @@ author_profile: true
 
 [C21] Tianyao Chu#, Siwei Tan#, **Liqiang Lu**\*, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: ArbiterQ: Improving QNN Convergency and Accuracy by Applying Personalized Model on Heterogeneous Quantum Devices. **DAC** 2025. (#These authors contributed equally.)
 
-[C20] Siwei Tan, **Liqiang Lu**\*, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, Xing Hu, Jianwei Yin\*: HornBro: Homotopy-like Method for Automated Quantum Program Repair. **FSE** 2025.
+[C20] Siwei Tan, **Liqiang Lu**\*, Debin Xiang, Tianyao Chu, Congliang Lang, Jintao Chen, Xing Hu, Jianwei Yin\*: HornBro: Homotopy-like Method for Automated Quantum Program Repair. **FSE** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/FSE_2025_HornBro.pdf)
 
 [C19] Tingting Li, Ziming Zhao, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Empowering Quantum Error Traceability with MoE for Automatic Calibration. **DATE** 2025.
 
-[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. **HPCA** 2025. (#These authors contributed equally.)
+[C18] Debin Xiang#, Qifan Jiang#, **Liqiang Lu**\*, Siwei Tan, Jianwei Yin\*: Choco-Q: Commute Hamiltonian-based QAOA for Constrained Binary Optimization. **HPCA** 2025. (#These authors contributed equally.) [Download](https://liqianglu-zju.github.io/files/conference/2025/HPCA_2025_Choco-Q.pdf)
 
 
 
@@ -52,7 +52,7 @@ author_profile: true
 
 **2022**
 
-[C10] Size Zheng, Renze Chen, Anjiang Wei, Yicheng Jin, Qin Han, **Liqiang Lu**, Bingyang Wu, Xiuhong Li, Shengen Yan, Yun Liang\*: AMOS: enabling automatic mapping for tensor computations on spatial accelerators with hardware abstraction. **ISCA** 2022. [Download](https://liqianglu-zju.github.io/files/conference/2022/ISCA_2022_AMOS.pdf)
+[C10] Size Zheng, Renze Chen, Anjiang Wei, Yicheng Jin, Qin Han, **Liqiang Lu**, Bingyang Wu, Xiuhong Li, Shengen Yan, Yun Liang\*: AMOS: Enabling Automatic Mapping for Tensor Computations on Spatial Accelerators with Hardware Abstraction. **ISCA** 2022. [Download](https://liqianglu-zju.github.io/files/conference/2022/ISCA_2022_AMOS.pdf)
 
 
 
@@ -82,7 +82,7 @@ author_profile: true
 
 **2018**
 
-[C03] **Liqiang Lu**, Yun Liang\*: SpWA: an efficient sparse winograd convolutional neural networks accelerator on FPGAs. **DAC** 2018. [Download](https://liqianglu-zju.github.io/files/conference/2018/DAC_2018_SpWA.pdf)
+[C03] **Liqiang Lu**, Yun Liang\*: SpWA: An Efficient Sparse Winograd Convolutional Neural Networks Accelerator on FPGAs. **DAC** 2018. [Download](https://liqianglu-zju.github.io/files/conference/2018/DAC_2018_SpWA.pdf)
 
 
 
@@ -97,11 +97,19 @@ author_profile: true
 ## Journal Publications
 (* denotes correspounding author.)
 
+**2025**
+
+[J13] **Liqiang Lu**, Tianyao Chu\*, Siwei Tan, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: HeteroQNN: Enabling Distributed QNN under Heterogeneous Quantum Devices. **TCAD** 2025.
+
+[J12] Debin Xiang, **Liqiang Lu**\*, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, Mingshuai Chen, Jianwei Yin\*: AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis. **TC** 2025.
+
+
+
 **2024**
 
-[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024.
+[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024. [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_SmartQCache.pdf)
 
-[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024.
+[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024. [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_QuST.pdf)
 
 [J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2024, 43(4): 1177-1190 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_Rubick.pdf)
 

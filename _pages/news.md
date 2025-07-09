@@ -4,14 +4,13 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-<!-- 字体加粗 -->
-
 
 ## 2025
-- **March 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
+- **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
+- **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
 - **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
 - **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
-- **Jan 2025:** Our HPCA 2025 tutorial "**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**" is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
+- **Jan 2025:** Our HPCA 2025 tutorial “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**” is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
 
 ## 2024
 - **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
@@ -35,7 +34,7 @@ author_profile: true
 
 ## 2023
 - **Dec 2023:** We organize “Quantum Software and Applications Forum” in Hangzhou with around 200 attendees. Thanks to the speakers (Prof. Xiaoming Sun, Prof. Lvzhou Li, Prof. Dong Wu, Prof. Tongyang Li, Prof. Zhen Wang).
-- **Dec 2023:** Our tutorial “**Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit**” [(Link)](https://janusq.github.io/tutorials/home) is accepted to [ASPLOS’24](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials).Our tutoiral is scheduled on April 27th, welcome to attend!
+- **Dec 2023:** Our tutorial “**Janus 2.0: A Software Framework for Analyzing, Optimizing, and Implementing Quantum Circuit**” ([Link](https://janusq.github.io/tutorials/home)) is accepted to [ASPLOS’24](https://www.asplos-conference.org/asplos2024/workshops-and-tutorials). Our tutorial is scheduled on April 27th, welcome to attend!
 - **Nov 2023:** Invited to give a talk on “Software optimization for quantum computing” for Alibaba DAMO Academy in Hangzhou.
 - **Sep 2023:** Tianyao’s project “Dynamic Scheduling for Quantum Communication Network with Online Request” is funded for undergraduate from National Natural Science Foundation of China (首届国自然基金委本科生项目). Congratulations to Tianyao.
 - **Sep 2023:** Invited to give a talk on “Software optimization for quantum computing” at the Center on Frontiers of Computing Studies in Peking University.
