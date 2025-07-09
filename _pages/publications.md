@@ -99,17 +99,17 @@ author_profile: true
 
 **2025**
 
-[J13] **Liqiang Lu**, Tianyao Chu\*, Siwei Tan, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: HeteroQNN: Enabling Distributed QNN under Heterogeneous Quantum Devices. **TCAD** 2025.
+[J13] **Liqiang Lu**, Tianyao Chu\*, Siwei Tan, Jingwen Leng, Fangxin Liu, Congliang Lang, Yifan Guo, Jianwei Yin\*: HeteroQNN: Enabling Distributed QNN under Heterogeneous Quantum Devices. **TCAD** 2025
 
-[J12] Debin Xiang, **Liqiang Lu**\*, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, Mingshuai Chen, Jianwei Yin\*: AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis. **TC** 2025.
+[J12] Debin Xiang, **Liqiang Lu**\*, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, Mingshuai Chen, Jianwei Yin\*: AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis. **TC** 2025
 
 
 
 **2024**
 
-[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024. [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_SmartQCache.pdf)
+[J11] **Liqiang Lu**, Wuwei Tian, Xinghui Jia, Siwei Tan\*, Zixuan Song, Jianwei Yin\*: SmartQCache: Fast and Precise Pulse Control with Near-quantum Cache Design on FPGA. **TCAD** 2024, 44(5): 1704-1716 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_SmartQCache.pdf)
 
-[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024. [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_QuST.pdf)
+[J10] Tingting Li, **Liqiang Lu**\*, Ziming Zhao, Ziqi Tan, Siwei Tan, Jianwei Yin\*: QuST: Optimizing Quantum Neural Network against Spatial and Temporal Noise Biases. **TCAD** 2024, 44(4): 1434-1447 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_QuST.pdf)
 
 [J09] **Liqiang Lu**, Zizhang Luo, Size Zheng, Jieming Yin, Jason Cong, Yun Liang\*, Jianwei Yin\*: Rubick: A Unified Infrastructure for Analyzing, Exploring, and Implementing Spatial Architectures via Dataflow Decomposition. **TCAD** 2024, 43(4): 1177-1190 [Download](https://liqianglu-zju.github.io/files/journal/2024/TCAD_2024_Rubick.pdf)
 
