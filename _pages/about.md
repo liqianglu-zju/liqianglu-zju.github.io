@@ -30,7 +30,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
   - Sparse accelerator for readout error mitigation ([QuFEM@ASPLOS’24](https://doi.org/10.1145/3620665.3640380), [SpREM@DAC’24](https://doi.org/10.1145/3649329.3655675), DyREM@DAC’25)
   - Dynamic pulse cache for IO optimization ([QPulselib@ICCAD’23](https://doi.org/10.1109/ICCAD57390.2023.10323711), [SmartQCache@TCAD’24](https://doi.org/10.1109/TCAD.2024.3497839))
   - FPGA-based branch prediction for quantum feedback ([ARTERY@ISCA’25](https://doi.org/10.1145/3695053.3731086))
-  - RISC-V design for Hybrid Quantum-Classical Computing ([Qtenon@ISCA’25](https://doi.org/10.1145/3695053.3731087))
+  - RISC-V design for hybrid quantum-classical computing ([Qtenon@ISCA’25](https://doi.org/10.1145/3695053.3731087))
 - **Software-hardware codesign for quantum applications**
   - End-to-end acceleration for solving 3-SAT problems ([HyQSAT@HPCA’23](https://doi.org/10.1109/HPCA56546.2023.10071022))
   - Optimization for quantum neural networks ([QuST@TCAD’24](https://doi.org/10.1109/TCAD.2024.3471949), ArbiterQ@DAC’25)
