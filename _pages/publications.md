@@ -10,6 +10,12 @@ author_profile: true
 
 **2025**
 
+[C28] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Shiyu Li, Hengyi Li, Tianyao Chu, Xuhong Zhang, Mingshuai Chen, Jianwei Yin\*: YOUTIAO: Hybrid Multiplexing with Dynamic Qubit Grouping for Low-cost and Scalable Quantum Wiring. **MICRO** 2025.
+
+[C27] Qifan Jiang, **Liqiang Lu**\*, Debin Xiang, Tianyao Chu, Tianze Zhu, Jingwen Leng, Yun Liang, Xiaoming Sun, Jianwei Yin\*: Rasengan: A Transition Hamiltonian-based Approximation Algorithm for Solving Constrained Binary Optimization Problems. **MICRO** 2025.
+
+[C26] Kaiwen Zhou, **Liqiang Lu**\*, Debin Xiang, Chenning Tao, Anbang Wu, Jingwen Leng, Fangxin Liu, Mingshuai Chen, Jianwei Yin\*: Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator. **MICRO** 2025.
+
 [C25] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin\*: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_ARTERY.pdf)
 
 [C24] Chenning Tao, **Liqiang Lu**\*, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, Kaiwen Zhou, Jianwei Yin\*: Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_Qtenon.pdf)

@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2025
+- **Jul 2025:** Three papers are accepted to **MICRO’25**. Congratulations to Kaiwen, Wuwei, and Qifan.
 - **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
 - **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
 - **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
