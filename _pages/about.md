@@ -21,20 +21,24 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 ## Research
 **System, Hardware, Software Optimization for Quantum Computing**
-- **Software optimization for quantum circuit compilation**
+- **Software-level optimization and quantum circuit compilation**
   - Quantum circuit analysis framework by vectorization ([QuCT@MICRO’23](https://doi.org/10.1145/3613424.3614274))
   - Quantum program verification and repair ([MorphQPV@ASPLOS’24](https://doi.org/10.1145/3620666.3651360), [HornBro@FSE’25](https://doi.org/10.1145/3715751))
   - Circuit performance modeling for distributed quantum computing (AdaptDQC@TC’25)
   - MoE-based method for automatic quantum calibration (DATE’25)
-- **Architectural optimization for high-fidelity quantum circuit**
-  - Sparse accelerator for readout error mitigation ([QuFEM@ASPLOS’24](https://doi.org/10.1145/3620665.3640380), [SpREM@DAC’24](https://doi.org/10.1145/3649329.3655675), DyREM@DAC’25)
+- **Architectural optimization in the peripheral hardware of quantum computer**
   - Dynamic pulse cache for IO optimization ([QPulselib@ICCAD’23](https://doi.org/10.1109/ICCAD57390.2023.10323711), [SmartQCache@TCAD’24](https://doi.org/10.1109/TCAD.2024.3497839))
   - FPGA-based branch prediction for quantum feedback ([ARTERY@ISCA’25](https://doi.org/10.1145/3695053.3731086))
   - RISC-V design for hybrid quantum-classical computing ([Qtenon@ISCA’25](https://doi.org/10.1145/3695053.3731087))
+  - Hybrid multiplexing for scalable quantum wiring (YOUTIAO@MICRO’25)
+- **Quantum error mitigation and error correction**
+  - Finite element method for readout error mitigation ([QuFEM@ASPLOS’24](https://doi.org/10.1145/3620665.3640380))
+  - Sparse accelerator for readout error mitigation ([SpREM@DAC’24](https://doi.org/10.1145/3649329.3655675), DyREM@DAC’25)
+  - Accurate and fast decoding for quantum LDPC codes (Vegapunk@MICRO’25)
 - **Software-hardware codesign for quantum applications**
   - End-to-end acceleration for solving 3-SAT problems ([HyQSAT@HPCA’23](https://doi.org/10.1109/HPCA56546.2023.10071022))
   - Optimization for quantum neural networks ([QuST@TCAD’24](https://doi.org/10.1109/TCAD.2024.3471949), ArbiterQ@DAC’25)
-  - Commute Hamiltonian-based QAOA for constrained binary optimization([Choco-Q@HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00031))
+  - Hamiltonian design for constrained binary optimization ([Choco-Q@HPCA’25](https://doi.org/10.1109/HPCA61900.2025.00031), Rasangen@MICRO’25)
   - Quantum finance algorithm optimization for Portfolio optimization (SAPO@DAC’25)
 
 **Architecture Design and Dataflow Analysis for AI Applications**
@@ -61,6 +65,7 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Jul 2025:** Three papers are accepted to **MICRO’25**. Congratulations to Kaiwen, Wuwei, and Qifan.
 - **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
 - **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
 - **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
