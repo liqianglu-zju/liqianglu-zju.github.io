@@ -38,7 +38,7 @@ author_profile: true
 
 [C23] Ning Yang, Zongwu Wang, Qingxiao Sun, **Liqiang Lu**, Fangxin Liu\*: PISA: Efficient Precision-Slice Framework for LLMs with Adaptive Numerical Type. **DAC** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/DAC_2025_PISA.pdf)
 
-[C22] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin\*: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_ARTERY.pdf)
+[C22] Wuwei Tian, **Liqiang Lu**\*, Siwei Tan, Yun Liang, Tingting Li, Kaiwen Zhou, Xinghui Jia, Jianwei Yin: ARTERY: Fast Quantum Feedback using Branch Prediction Method. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_ARTERY.pdf)
 
 [C21] Chenning Tao, **Liqiang Lu**\*, Size Zheng, Li-Wen Chang, Minghua Shen, Hanyu Zhang, Fangxin Liu, Kaiwen Zhou, Jianwei Yin\*: Qtenon: Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing. **ISCA** 2025. [Download](https://liqianglu-zju.github.io/files/conference/2025/ISCA_2025_Qtenon.pdf)
 
