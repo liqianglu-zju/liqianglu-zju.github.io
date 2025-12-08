@@ -65,10 +65,10 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
-- **Dec 2025:** Wuwei successfully defended his doctoral thesis titled “Software–Hardware Co-Optimization Methods for Quantum Computing Control Systems”. He will stay in School of Software and Technology of Zhejiang University as a tenure-track assistant professor. Congratulations!
-- **Nov 2025:** Three papers are accepted to HPCA’26. Congratulations to Hanyu and Fangxu. Thanks to the two co-authors of the paper, Prof. Fangxin Liu and Prof. Anbang Wu.
-- **Sep 2025:** I was awarded ACM ChinaSys (SIGOPS) Rising Star Award.
-- **Sep 2025:** I was awarded CCF-SYS Young Scientist Award (CCF体系结构青年科技奖).
+- **Dec 2025:** Wuwei successfully defended his doctoral thesis titled “Software–Hardware Co-Optimization Methods for Quantum Computing Control Systems”. **He will stay in School of Software and Technology of Zhejiang University as a tenure-track assistant professor. Congratulations!**
+- **Nov 2025:** Three papers are accepted to **HPCA’26**. Congratulations to Hanyu and Fangxu. Thanks to the two co-authors of the paper, Prof. Fangxin Liu and Prof. Anbang Wu.
+- **Sep 2025:** I was awarded **ACM ChinaSys (SIGOPS) Rising Star Award**.
+- **Sep 2025:** I was awarded **CCF-SYS Young Scientist Award** (CCF体系结构青年科技奖).
 - **Jul 2025:** Three papers are accepted to **MICRO’25**. Congratulations to Kaiwen, Wuwei, and Qifan.
 - **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
 - **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
