@@ -65,21 +65,25 @@ I am an assistant professor (ZJU100 Young Professor) in the College of Computer 
 
 
 ## Selected News
+- **Dec 2025:** Wuwei successfully defended his doctoral thesis titled “Software–Hardware Co-Optimization Methods for Quantum Computing Control Systems”. He will stay in School of Software and Technology of Zhejiang University as a tenure-track assistant professor. Congratulations!
+- **Nov 2025:** Three papers are accepted to HPCA’26. Congratulations to Hanyu and Fangxu. Thanks to the two co-authors of the paper, Prof. Fangxin Liu and Prof. Anbang Wu.
+- **Sep 2025:** I was awarded ACM ChinaSys (SIGOPS) Rising Star Award.
+- **Sep 2025:** I was awarded CCF-SYS Young Scientist Award (CCF体系结构青年科技奖).
 - **Jul 2025:** Three papers are accepted to **MICRO’25**. Congratulations to Kaiwen, Wuwei, and Qifan.
 - **Jul 2025:** Two papers are accepted to **TC’25** and **TCAD’25**. Congratulations to Debin and Tianyao.
 - **Mar 2025:** Two papers are accepted to **ISCA’25**. Congratulations to Wuwei and Chenning.
 - **Feb 2025:** Three papers are accepted to **DAC’25**. Congratulations to Kaiwen, Tianze, and Tianyao.
 - **Jan 2025:** One paper is accepted to **FSE’25**. Congratulations to Siwei.
 - **Jan 2025:** Our HPCA 2025 tutorial “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**” is scheduled on March 2. This is the [link](https://janusq.github.io/HPCA_2025_Tutorial/home) to our tutorial.
-- **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program – Congratulations!
+- **Nov 2024:** Siwei successfully joined the School of Software Technology at Zhejiang University as a tenure-track assistant professor/Hundred Talented Program. Congratulations!
 - **Nov 2024:** Serve as the program co-chair (with Prof. Shuiguang Deng) for CCF Advanced Computing and Emerging Service (ACES, organized by Prof. Jianwei Yin) forum at Hangzhou. Thanks to the Invited Speakers. 
 - **Nov 2024:** One paper is accepted to **DATE’25**. Congratulations to Tingting.
 - **Nov 2024:** One paper is accepted to **TCAD’24**. Congratulations to Wuwei.
 - **Nov 2024:** One paper is accepted to **HPCA’25**. Congratulations to Debin and Qifan.
 - **Oct 2024:** Invited to give a talk of “A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features” at China National Computer Congress (CNCC).
 - **Oct 2024:** Our tutorial proposal “**Janus 3.0: A Software Framework for Analyzing, Optimizing, Verifying, and Implementing Quantum Circuit**” is accepted to **HPCA’25**. Welcome to attend! We will update the link soon.
-- **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor – Congratulations!
-- **Sep 2024:** Hengrui’s project “Studying the EQC for quantum neural networks” is funded for undergraduate from National Natural Science Foundation of China (第二届国自然基金委本科生项目). Congratulations to Hengrui.
+- **Sep 2024:** Siwei Tan successfully defended his doctoral thesis titled “Optimization Theory and Key Technique for Quantum Computing Software System”. Siwei wins the excellent Ph.D thesis award of Zhejiang University. He will stay in Zhejiang University as a tenure-track assistant professor. Congratulations!
+- **Sep 2024:** Hengrui’s project “Studying the QEC for quantum neural networks” is funded for undergraduate from National Natural Science Foundation of China (第二届国自然基金委本科生项目). Congratulations to Hengrui.
 - **Sep 2024:** One paper is accepted to **TCAD’24**. Congratulations to Tingting.
 - **May 2024:** We organize the first “Quantum Circuit Design Automation Conference” (QCDAC) in Nanjing. Thanks to the co-organizers. I’m invited to give a talk of my DAC 2024 paper.
 - **Mar 2024:** One paper is accepted to **DAC’24**. Congratulations to Hanyu.
