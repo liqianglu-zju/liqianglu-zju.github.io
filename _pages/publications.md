@@ -156,7 +156,7 @@ author_profile: true
 
 [J07] Yun Liang\*, Qingcheng Xiao, **Liqiang Lu**, Jiaming Xie: FCNNLib: A Flexible Convolution Algorithm Library for Deep Learning on FPGAs. **TCAD** 2021, 41(8): 2546-2559 [Download](https://liqianglu-zju.github.io/files/journal/2021/TCAD_2021_FCNNLib.pdf)
 
-[J06] Yun Liang\*, **Liqiang Lu**, Yinchen Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin: An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-Based Models. **TCAD** 2021, 41(3): 597-613 [Download](https://liqianglu-zju.github.io/files/conference/2021/TCAD_2021_An_Efficient_Hardware_Design_for_Accelerating.pdf)
+[J06] Yun Liang\*, **Liqiang Lu**, Yinchen Jin, Jiaming Xie, Ruirui Huang, Jiansong Zhang, Wei Lin: An Efficient Hardware Design for Accelerating Sparse CNNs with NAS-Based Models. **TCAD** 2021, 41(3): 597-613 [Download](https://liqianglu-zju.github.io/files/journal/2021/TCAD_2021_An_Efficient_Hardware_Design_for_Accelerating.pdf)
 
 
 
@@ -166,7 +166,7 @@ author_profile: true
 
 [J04] Liancheng Jia, **Liqiang Lu**, Xuechao Wei, Yun Liang\*: Generating Systolic Array Accelerators With Reusable Blocks. **IEEE Micro** 2020, 40(4): 85-92 [Download](https://liqianglu-zju.github.io/files/journal/2020/IEEE_Micro_2020_Generating_Systolic_Array_Accelerators_With_Reusable_Blocks.pdf)
 
-[J03] Liancheng Jia, Yun Liang\*, Xiuhong Li, **Liqiang Lu**, Shengen Yan: Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels. **IEEE T. Comput.** 2020, 69(7): 986-997 [Download](https://liqianglu-zju.github.io/files/journal/2020/TC_2020_Enabling_Efficient_Fast_Convolution_Algorithms_on_GPUs_via_MegaKernels.pdf)
+[J03] Liancheng Jia, Yun Liang\*, Xiuhong Li, **Liqiang Lu**, Shengen Yan: Enabling Efficient Fast Convolution Algorithms on GPUs via MegaKernels. **TC** 2020, 69(7): 986-997 [Download](https://liqianglu-zju.github.io/files/journal/2020/TC_2020_Enabling_Efficient_Fast_Convolution_Algorithms_on_GPUs_via_MegaKernels.pdf)
 
 
 
@@ -174,4 +174,4 @@ author_profile: true
 
 [J02] **Liqiang Lu**, Size Zheng, Qingcheng Xiao, Deming Chen, Yun Liang\*: Accelerating convolutional neural networks on FPGAs (in Chinese). **Sci. Sin. Inform.** 2019, 49(3): 277-294 [Download](https://liqianglu-zju.github.io/files/journal/2019/Sci_Sin_Inform_2019_Accelerating_Convolutional_Neural_Networks_on_FPGAs.pdf)
 
-[J01] Yun Liang\*, **Liqiang Lu**, Qingcheng Xiao, Shengen Yan: Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs. **TCAD** 2019, 39(4): 857-870 [Download](https://liqianglu-zju.github.io/files/journal/2020/TCAD_2020_Evaluating_Fast_Algorithms_for_Convolutional_Neural_Networks_on_FPGAs.pdf)
+[J01] Yun Liang\*, **Liqiang Lu**, Qingcheng Xiao, Shengen Yan: Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs. **TCAD** 2019, 39(4): 857-870 [Download](https://liqianglu-zju.github.io/files/journal/2019/TCAD_2019_Evaluating_Fast_Algorithms_for_Convolutional_Neural_Networks_on_FPGAs.pdf)
